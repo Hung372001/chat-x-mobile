@@ -1,0 +1,38 @@
+diff --git a/node_modules/react-native-emoji-selector/index.js b/node_modules/react-native-emoji-selector/index.js
+index 0737acd..c5e792f 100644
+--- a/node_modules/react-native-emoji-selector/index.js
++++ b/node_modules/react-native-emoji-selector/index.js
+@@ -84,14 +84,15 @@ const TabBar = ({ theme, activeCategory, onPress, width }) => {
+             borderColor: category === activeCategory ? theme : "#EEEEEE",
+             borderBottomWidth: 2,
+             alignItems: "center",
+-            justifyContent: "center"
++            justifyContent: "center",
++            height:48,
+           }}
+         >
+           <Text
+             style={{
+               textAlign: "center",
+               paddingBottom: 8,
+-              fontSize: tabSize - 24
++              fontSize: 24
+             }}
+           >
+             {category.symbol}
+@@ -298,6 +299,7 @@ export default class EmojiSelector extends Component {
+           underlineColorAndroid={theme}
+           value={searchQuery}
+           onChangeText={this.handleSearch}
++          
+         />
+       </View>
+     );
+@@ -392,6 +394,7 @@ const styles = StyleSheet.create({
+         backgroundColor: "#E5E8E9"
+       }
+     }),
++    color: 'black',
+     margin: 8
+   },
+   container: {

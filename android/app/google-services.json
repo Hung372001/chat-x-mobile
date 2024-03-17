@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "400483622146",
+    "project_id": "chat-x-e8235",
+    "storage_bucket": "chat-x-e8235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400483622146:android:a3ac36fe2103d7d33fb61b",
+        "android_client_info": {
+          "package_name": "com.chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400483622146-51iduj0uk01b3b5bm4d78grna61inrdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1zcJjt-o4Nkcc41jdD45VRy-qyj9XPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400483622146-51iduj0uk01b3b5bm4d78grna61inrdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400483622146-v30ndhf1batfub2qd7peb46f77a7dbjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.guppy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400483622146:android:27fac81edc2799e93fb61b",
+        "android_client_info": {
+          "package_name": "com.x.chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400483622146-51iduj0uk01b3b5bm4d78grna61inrdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1zcJjt-o4Nkcc41jdD45VRy-qyj9XPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400483622146-51iduj0uk01b3b5bm4d78grna61inrdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400483622146-v30ndhf1batfub2qd7peb46f77a7dbjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.guppy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mailisa</string>
+    <string name="google_maps_api">AIzaSyAWrLSqzV4xYq3HX0JTcZeZGsk1FFoWKw0</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">A9kZuMeLbbpLQVVlFS33XhjONNWDKzenALy_F</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
